@@ -1,0 +1,6 @@
+services:
+    palindrome.service:
+        class: Acme\DemoBundle\Services\PalindromeService
+#    acme_demo.example:
+#        class: Acme\DemoBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]
